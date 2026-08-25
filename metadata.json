@@ -1,0 +1,8 @@
+{
+  "name": "OpenHouse Pro - Visitor Side Software",
+  "description": "Interactive open house platform for buyer side featuring spatial virtual tours, interactive 3D model & dollhouse digital twin, visitor commenting, and social factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
